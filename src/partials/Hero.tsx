@@ -1,6 +1,7 @@
 import {
   GradientText,
   HeroAvatar,
+
   HeroSocial,
   Section,
 } from 'astro-boilerplate-components';
